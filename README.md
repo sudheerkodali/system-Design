@@ -19,7 +19,7 @@ system-design-and-it-types
 
 | 9 | [Publisher subscribe](#)
 
-| 10 | [Publish subscriber pattern](#)
+|10 |[Publish subscriber pattern](#)
 
 | 11 | [Rate limiters](#)
 
