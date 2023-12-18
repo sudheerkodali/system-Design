@@ -15,13 +15,27 @@ system-design-and-it-types
 
 | 7 | [Caching](#)
 
-| 9 | [Network protocals](#)
+| 8 | [Network protocals](#)
 
-| 10 | [Publisher subscribe](#)
+| 9 | [Publisher subscribe](#)
 
-| 11 | [Publish subscriber pattern](#)
+| 10 | [Publish subscriber pattern](#)
 
-| 12 | [Rate limiters](#)
+| 11 | [Rate limiters](#)
+
+| 12 | [Steps to approach any system design problems](#)
+
+| 13 | [System design fundamentals](#)
+
+
+<!--<p> section 1 </p>
+<p> section 2 </p>-->
+
+
+
+
+
+
 
 
 
