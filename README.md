@@ -30,8 +30,7 @@ system-design-and-it-types
 
 <!--<p> section 1 </p>
 <p> section 2 </p>-->
-
-
+<p> Differrent type of SYSTEM DESINING types <br> <p> Load Balancer </p>  <hr>
 
 
 
