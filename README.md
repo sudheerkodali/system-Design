@@ -15,9 +15,9 @@ system-design-and-it-types
 
  | 7 |  [Caching](#)
 
-   | 8 |  [Network protocals](#)
+ | 8 |  [Network protocals](#)
 
-   | 9 |  [Publisher subscribe](#)
+ | 9 |  [Publisher subscribe](#)
 
  | 10 |  [Publish subscriber pattern](#)
 
@@ -25,7 +25,7 @@ system-design-and-it-types
 
  | 12 |  [Steps to approach any system design problems](#)
 
- | 13 | [System design fundamentals](#)
+ | 13 |  [System design fundamentals](#)
 
 
 <!--<p> section 1 </p>
