@@ -17,13 +17,13 @@ system-design-and-it-types
 
  | 8 |  [Network protocals](#)
 
- | 9 |  [Publisher subscribe](#)
+  | 9 |  [Publisher subscribe](#)
 
  | 10 |  [Publish subscriber pattern](#)
 
- | 11 | [Rate limiters](#)
+ | 11 |  [Rate limiters](#)
 
- | 12 | [Steps to approach any system design problems](#)
+ | 12 |  [Steps to approach any system design problems](#)
 
  | 13 | [System design fundamentals](#)
 
