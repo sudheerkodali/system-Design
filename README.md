@@ -15,7 +15,7 @@ system-design-and-it-types
 
  | 7 |  [Caching](#)
 
- | 8 |  [Network protocals](#)
+  | 8 |  [Network protocals](#)
 
   | 9 |  [Publisher subscribe](#)
 
