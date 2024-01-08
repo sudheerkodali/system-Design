@@ -1,5 +1,5 @@
 # system-Design
-## system design and it types
+### system design and its types
 
 | No. | Question
 |
