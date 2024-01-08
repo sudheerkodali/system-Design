@@ -1,17 +1,12 @@
 # system-Design
 ### system design and its types
 
-| No. | Question
-|
+| No. | Question                                                                                |
 | --- |-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-|     | **system design**
-
-| 1   |  [How to evaluate your design](#)                                                                                                                                        
-|
+|     | **system design**                                                                       |
+| 1   |  [How to evaluate your design](#)                                                      |                                                                                                                                        
 | 2   |  [Proxy service load balancer](#)                                                       |                                                        
-                                                        
-
- | 3 |  [Availability](#)
+| 3   |  [Availability](#)                                                                      |
 
  | 4 |  [Database](#)
 
