@@ -34,7 +34,7 @@
  | 13 |  [System design fundamentals](#)
 
 
-**[⬆ Back to Top)(#system-design-and-its-types)**
+**[⬆ Back to Top](#system-design-and-its-types)**
 
 <!--<p> section 1 </p>
 <p> section 2 </p>-->
