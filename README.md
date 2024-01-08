@@ -8,8 +8,8 @@
 
 | 1  |  [How to evaluate your design](#)                                                                                                                                        
 |
-
- | 2 |  [Proxy service load balancer](#)
+| 2 |  [Proxy service load balancer](#)                                                        
+|                                                         
 
  | 3 |  [Availability](#)
 
