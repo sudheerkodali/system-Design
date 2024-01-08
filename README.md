@@ -20,7 +20,7 @@
 | 10  |  [Publish subscriber pattern](#)                                                                                                                                        |
 | 11  |  [Rate limiters](#)                                                                                                                                                     |
 | 12  |  [Steps to approach any system design problems](#)                                                                                                                      |
-| 13 |  [System design fundamentals](#)                                                                                                                                         |
+| 13  |  [System design fundamentals](#)                                                                                                                                        |
 
 
 **[⬆ Back to Top](#system-design-and-its-types)**
