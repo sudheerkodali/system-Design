@@ -1,7 +1,12 @@
 # system-Design
-system-design-and-it-types
+## system design and it types
+| NO.| question
+|
+|----|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|    | ** system design |
 
- | 1 |  [How to evaluate your design](#)
+| 1  |  [How to evaluate your design](#)                                                                                                                                        
+|
 
  | 2 |  [Proxy service load balancer](#)
 
@@ -27,6 +32,8 @@ system-design-and-it-types
 
  | 13 |  [System design fundamentals](#)
 
+
+[!Bottom of the page](system-design-and=its=types)
 
 <!--<p> section 1 </p>
 <p> section 2 </p>-->
