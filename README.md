@@ -3,14 +3,10 @@
 
 | No. | Question                                                                                |
 | --- |-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-|     | **system design**     
-|
-| 1   |  [How to evaluate your design](#)  
-|                                                                                                                                        
-| 2   |  [Proxy service load balancer](#)
-|                                                        
-| 3   |  [Availability](#)  
-|
+|     | **system design**                                                                                                                                                       |
+| 1   |  [How to evaluate your design](#)                                                                                                                                      |                                                                                                                                       
+| 2   |  [Proxy service load balancer](#)                                                                                                                                       |                                                       
+| 3   |  [Availability](#)                                                                                                                                                      |
 | 4   |  [Database](#)                                                                                                                                                          |
 | 5   |  [Data partitioning](#)                                                                                                                                                 |
 | 6   |  [Load Balancing](#)                                                                                                                                                    |
